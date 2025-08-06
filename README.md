@@ -1,6 +1,5 @@
 # 🌸 JoyBloom
 
-## 📝 App Description
 **JoyBloom** is a daily gratitude journaling app where users log one good thing a day. Each entry blooms into a flower in a virtual garden. The app encourages positivity and reflection through weekly recaps and surprise rewards.
 
 ---
