@@ -1,6 +1,19 @@
 # 🌸 JoyBloom
 
-**JoyBloom** is a daily gratitude journaling app where users log one good thing a day. Each entry blooms into a flower in a virtual garden. The app encourages positivity and reflection through weekly recaps and surprise rewards.
+**JoyBloom** is a daily gratitude journaling app where users log one good thing a day.  
+Each entry blooms into a flower in a virtual garden. The app encourages positivity and reflection through weekly recaps and surprise rewards.
+
+---
+
+## 📖 App Overview
+
+JoyBloom is designed to make gratitude a daily habit by rewarding users with a visual, blooming garden for every entry.  
+The app blends journaling with interactive visuals, aiming to boost mood, mindfulness, and positivity.
+
+### ✨ Evaluation
+- **Strengths:** Visually rewarding feedback, simple to use, encourages positive thinking.
+- **Challenges:** Requires consistent engagement to feel rewarding, balancing animation performance on different devices.
+- **Future Improvements:** Cloud sync for multiple devices, more flower varieties, seasonal garden themes.
 
 ---
 
@@ -12,12 +25,39 @@
 - [x] UI built using Storyboard (UIKit)
 - [x] App icon and color theme added
 
+---
+
 ## 🔜 Features in Progress
 - [ ] Flower Garden screen with dynamic flower generation
 - [ ] Weekly Joy Capsule feature (reward animation)
 - [ ] Entry history list view
 - [ ] Tab bar navigation between Write, Garden, and History
 - [ ] Data persistence across sessions
+
+---
+
+## 📋 App Specification
+
+### 🛠 Features
+- [x] Write a daily gratitude entry
+- [ ] View Bloom Garden with flowers for each entry
+- [ ] Weekly Joy Capsule surprise
+- [ ] History log of past entries
+
+### 📱 Screens
+1. **Bloom Garden (Home)** – shows flowers representing entries.
+2. **Write Entry** – lets user log a gratitude note.
+3. **Joy Capsule** – surprise weekly reward animation.
+4. **History** – past entries in a list view.
+
+### 🔄 Navigation Flow
+- Launch app → **Bloom Garden**
+- Tap **Write** → **Write Entry**
+- Save → return to **Bloom Garden**
+- Tap **History** → **History Screen**
+- Joy Capsule appears weekly as a surprise
+
+---
 
 ## 📅 Sprint Plan
 
@@ -42,22 +82,27 @@
 - Polish UI (spacing, colors, custom assets)
 - Record demo + finalize README for final submission
 
+---
+
 ## 🖼️ Wireframes
 - Write Screen (with UITextView and Save)
 - Flower Garden (virtual flower grid)
 - Joy Capsule (animation screen)
 - Entry History (list of past gratitudes)
 
-## 📷 Screenshots
+---
 
+## 📷 Screenshots
+<img width="986" height="511" alt="Screenshot 2025-08-06 at 1 44 16 AM" src="https://github.com/user-attachments/assets/f1b7c0a3-d618-4849-8bc4-43984d8802eb" />
 
 ---
 
-<img width="986" height="511" alt="Screenshot 2025-08-06 at 1 44 16 AM" src="https://github.com/user-attachments/assets/f1b7c0a3-d618-4849-8bc4-43984d8802eb" />
+## 🎥 Demo
+*(Coming soon — will be recorded in Xcode Simulator and added here)*
 
+---
 
 ## 🤖 brainstorm.md
-```
 ## Brainstorming Ideas
 1. JoyBloom (Gratitude app)
 2. DreamVault (Dream logging app)
@@ -71,8 +116,3 @@
 2. DreamVault
 3. TimeCapsule
 
-## Final Idea: JoyBloom 🌸
-A gratitude journaling app where entries turn into flowers in a digital garden.
-```
-
----
