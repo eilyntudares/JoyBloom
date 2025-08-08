@@ -94,11 +94,12 @@ The app blends journaling with interactive visuals, aiming to boost mood, mindfu
 
 ## 📷 Screenshots
 <img width="986" height="511" alt="Screenshot 2025-08-06 at 1 44 16 AM" src="https://github.com/user-attachments/assets/f1b7c0a3-d618-4849-8bc4-43984d8802eb" />
+<img width="1500" height="500" alt="Pink Pastel Feminine Motivational Twitter Header" src="https://github.com/user-attachments/assets/7573af01-d24a-49c3-a680-c29e6c4de50e" />
 
 ---
 
 ## 🎥 Demo
-*(Coming soon — will be recorded in Xcode Simulator and added here)*
+https://www.loom.com/share/955778a076194c48994d11ace35a3daf?sid=3b22e9e3-a1a9-45f8-b6e8-c80da3ed0b42
 
 ---
 
