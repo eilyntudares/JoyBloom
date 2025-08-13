@@ -116,7 +116,7 @@ It blends simple journaling with interactive visuals, aiming to boost mood, mind
 ---
 
 ## 🎥 Demo
-[🎬 Watch the Demo](https://www.loom.com/share/955778a076194c48994d11ace35a3daf?sid=3b22e9e3-a1a9-45f8-b6e8-c80da3ed0b42)  
+[🎬 Watch the Demo] https://www.loom.com/share/5dba396a2c59483eaa87fdda96f94f20?sid=9659b3c3-dc48-412f-a700-541479150fe0
 
 ---
 
